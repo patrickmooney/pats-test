@@ -6,3 +6,4 @@ Now another line has been added
 And a third!
 More!
 ONLINE CHANGE TWO
+Offline
